@@ -112,4 +112,32 @@ I am actively advancing toward Cloud Security Architect roles through hands-on p
 
 ---
 
+## 🔐 Featured Cloud Security Projects
+
+### 🛡️ Highly Available Secure Web Application
+📁 aws-ha-webapp  
+Designed a multi-AZ architecture with load balancing, auto scaling, and secure network controls to ensure resilience and business continuity.
+
+### ⚙️ Compute Resilience & Self-Healing Systems
+📁 aws-compute-resilience-labs  
+Implemented auto scaling, performance optimization, and self-healing mechanisms to improve uptime and operational reliability.
+
+### 🌐 Secure VPC Architecture & Network Segmentation
+📁 aws-vpc-secure-networking  
+Designed segmented VPC architecture aligned with Zero Trust principles to enforce least-privilege network access.
+
+### 🔗 Secure Inter-VPC Connectivity
+📁 aws-vpc-peering-secure-connectivity  
+Enabled secure communication between environments while maintaining segmentation and governance controls.
+
+---
+
+## 🎯 Career Focus
+Actively pursuing Cloud Security Architect roles focused on designing secure, resilient, and scalable cloud infrastructures aligned with Zero Trust and governance best practices.
+
+---
+
 ⭐️ Thanks for visiting my profile.
+
+
+

@@ -1,7 +1,8 @@
-Cloud Security Architect | Secure Multi-Cloud | Networking & Zero Trust
-# Hi, I'm Hari Sharma 👋
 
-Cloud Security Architect | Secure Multi-Cloud | Networking & Zero Trust
+
+
+# Hi, I'm Hari Sharma 👋
+Security Engineer | Cloud & Network Security | Security Automation & Integration | Zero Trust & Governance
 
 ---
 

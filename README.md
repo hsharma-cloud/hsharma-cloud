@@ -86,27 +86,16 @@ I am actively advancing toward Cloud Security Architect roles through hands-on p
 
 ### 🚧 In Progress
 - CISSP
-- SC-100: Cybersecurity Architect
-- AZ-305: Azure Solutions Architect Expert
 - AZ-500: Azure Security Engineer Associate
 - AWS Solutions Architect Associate (SAA-C03)
-
-### 📌 Planned
-- AWS Security Specialty
-
-### ⏳ Pending Verification
-- CISA
-
----
-
+  
+  ---
 ## 🧭 Current Focus
 
 - Secure multi-cloud architecture (AWS & Azure)
 - Identity-first security and Zero Trust design
 - Governance, risk, and compliance alignment
 - Security monitoring and automation
-
----
 
 ## 📫 Connect With Me
 

@@ -5,15 +5,13 @@
 Security Engineer | Cloud & Network Security | Security Automation & Integration | Zero Trust & Governance
 
 ---
-
 ## 👨‍💻 About Me
 
-I am a Security Engineer with a strong foundation in enterprise networking and cloud security, focused on designing secure, resilient, and compliant architectures across AWS and Azure.
+I am a Security Engineer with a strong foundation in enterprise networking and cloud security, specializing in designing secure, resilient, and governance-driven architectures across AWS and Azure environments.
 
-My experience spans identity and access management, network segmentation, hybrid cloud environments, and security monitoring. I specialize in applying Zero Trust principles, least-privilege access, and governance-driven design to protect critical systems.
+My experience spans identity and access management, network segmentation, hybrid cloud infrastructure, and security monitoring. I focus on implementing Zero Trust architectures, least-privilege access models, and policy-driven governance frameworks to protect critical systems and reduce organizational risk.
 
-I am actively advancing toward Cloud Security Architect roles through hands-on projects and architect-level certifications.
-
+I continue to deepen my expertise in cloud security architecture through hands-on engineering projects and advanced certifications focused on secure architecture, threat detection, and resilient cloud infrastructure.
 ---
 
 ## 🛠️ Core Expertise
@@ -23,7 +21,7 @@ I am actively advancing toward Cloud Security Architect roles through hands-on p
 - Zero Trust & network segmentation
 - Cloud logging, monitoring, and threat detection
 - Secure configuration & shared responsibility model
-
+ 
 ### ☁️ Cloud Architecture
 - AWS & Azure secure architecture design
 - High availability & resilient infrastructure

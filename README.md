@@ -136,6 +136,7 @@ Designed a secure data architecture with encryption, access controls, and data p
 📁 azure-cloud-security-architecture  
 Built a secure Azure architecture using hub-spoke networking, RBAC, managed identities, and native monitoring for secure and scalable workload deployment.  
 
+---
 ### 🎯 Career Focus  
 
 Focused on Security Engineer roles across hybrid environments, securing both on-premises and cloud infrastructures (AWS and Azure) with an emphasis on Zero Trust, identity-first security, and governance-driven practices.  

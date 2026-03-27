@@ -4,12 +4,16 @@
 # Hi, I'm Hari Sharma 👋
 Security Engineer | Cloud & Network Security | Security Automation & Integration | Zero Trust & Governance
 ---
-## 👨‍💻 About Me
-I am a Security Engineer with a strong foundation in enterprise networking and cloud security, specializing in designing secure, resilient, and governance-driven architectures across AWS and Azure environments.
+## 👨‍💻 About Me  
 
-My experience spans identity and access management, network segmentation, hybrid cloud infrastructure, and security monitoring. I focus on implementing Zero Trust architectures, least-privilege access models, and policy-driven governance frameworks to protect critical systems and reduce organizational risk.
+Security Engineer specializing in cloud security and enterprise network architecture, with a focus on designing secure, resilient, and governance-driven environments across AWS and Azure.  
 
-I continue to deepen my expertise in cloud security architecture through hands-on engineering projects and advanced certifications focused on secure architecture, threat detection, and resilient cloud infrastructure.
+I build and secure cloud infrastructures using identity-first security principles, emphasizing least privilege, Zero Trust, and strong segmentation to reduce risk and protect critical systems.  
+
+My experience includes IAM, hybrid networking, cloud monitoring, and threat detection, with a practical approach centered on real-world architecture and security operations.  
+
+I actively develop hands-on cloud security projects to deepen expertise in secure design, automation, and detection engineering.
+
 
 ## 🛠️ Core Expertise
 

@@ -18,37 +18,61 @@ I actively develop hands-on cloud security projects to deepen expertise in secur
 ## 🛠️ Core Expertise
 
 ### 🔐 Cloud Security
-- Identity & Access Management (IAM, RBAC, least privilege)
-- Zero Trust & network segmentation
-- Cloud logging, monitoring, and threat detection
-- Secure configuration & shared responsibility model
- 
+
+🔐 Cloud Security  
+
+- Identity and Access Management (IAM, RBAC, least privilege, role-based access control, policy design, identity lifecycle management)  
+- Zero Trust architecture, network segmentation, and identity-first security design across cloud environments  
+- Cloud logging, monitoring, and threat detection using centralized visibility and detection-driven approaches  
+- Secure configuration management aligned with cloud security best practices and shared responsibility model  
+- Risk-based security approach focused on reducing attack surface and prioritizing high-impact vulnerabilities  
+- Encryption and data protection strategies for securing data at rest and in transit  
+- Governance, compliance, and policy enforcement using cloud-native security controls and frameworks  
+- Security posture management and continuous assessment of cloud environments   
 ### ☁️ Cloud Architecture
-- AWS & Azure secure architecture design
-- High availability & resilient infrastructure
-- Hybrid connectivity & secure workload deployment
+### ☁️ Cloud Architecture  
 
+- Design of secure AWS and Azure architectures aligned with Well-Architected Framework principles (security, reliability, performance, cost optimization, operational excellence)  
+- High availability and resilient infrastructure design using multi-AZ and multi-region deployment strategies  
+- Network architecture design including hub-and-spoke models, VPC/VNet segmentation, and controlled traffic flow  
+- Hybrid connectivity design (site-to-site VPN, remote access, secure connectivity between on-prem and cloud environments)  
+- Scalable workload deployment using modular and repeatable infrastructure patterns  
+- Integration of security controls into architecture design (identity-first approach, segmentation, least privilege)  
+- Cost-aware architecture planning with performance and efficiency considerations  
+- Infrastructure as Code (IaC) concepts for consistent, automated, and scalable deployments (Terraform in progress)  
 ### 🌐 Enterprise Networking & Security
-- Cisco ASA, FMC, ISE
-- Site-to-Site & Remote Access VPNs
-- 802.1X & network access control
-- Segmentation & secure network design
+### 🌐 Enterprise Networking & Security  
 
+- Network security architecture design including segmentation, secure zones, and controlled traffic flow across enterprise environments  
+- Implementation and management of firewalls and network security controls (Cisco ASA, Cisco Firepower/FTD, Palo Alto, Fortinet)  
+- Network access control and authentication using 802.1X and identity-based policies (Cisco ISE)  
+- Site-to-site and remote access VPN design for secure hybrid connectivity  
+- Vulnerability management using tools such as Nessus, OpenVAS, and Qualys for continuous risk assessment  
+- Security monitoring and log analysis using SIEM platforms (Splunk, Wazuh) for threat detection and incident response  
+- Security operations and incident management workflows using platforms such as ServiceNow and Jira  
+- Hands-on experience with offensive and defensive security tools (Kali Linux) for testing and validation of security controls  
+- Design and security of multi-tier application environments including web, application, and database layers  
+- Secure infrastructure management including domain controllers, storage systems, and enterprise services  
+- Integration of network and security controls into enterprise and cloud environments for unified security posture  
 ---
 
 ## ☁️ Cloud Experience
 
 ### AWS Well-Architected Design
-- Applied AWS Well-Architected Framework principles across:
-  - Security
-  - Reliability
-  - Performance Efficiency
-  - Cost Optimization
-  - Operational Excellence
-- Designed highly available architectures using multi-AZ deployments
-- Implemented least-privilege IAM and security controls
-- Enabled logging and monitoring using native AWS services
+## ☁️ Cloud Experience  
 
+Designed and implemented multiple cloud security and infrastructure projects across AWS and Azure, focusing on secure architecture, scalability, and governance-driven design.  
+
+- Applied Well-Architected Framework principles across security, reliability, performance efficiency, cost optimization, and operational excellence  
+- Designed highly available and resilient architectures using multi-AZ deployments and scalable infrastructure patterns  
+- Implemented identity-first security models using IAM, RBAC, and least-privilege access controls  
+- Built segmented network architectures using hub-and-spoke design and controlled traffic flows  
+- Enabled centralized logging, monitoring, and visibility for threat detection and security operations  
+- Developed infrastructure aligned with Zero Trust principles, emphasizing segmentation, identity, and continuous verification  
+- Integrated security controls into architecture design, reducing attack surface and improving risk posture  
+- Built and tested multi-tier environments including web, application, database, and storage layers  
+- Applied governance and policy-driven security controls using cloud-native services  
+- Gained hands-on experience through building end-to-end cloud environments simulating enterprise scenarios  
 ### Azure Well-Architected Design
 - Designed secure Azure architectures aligned with:
   - Security
@@ -72,22 +96,23 @@ I actively develop hands-on cloud security projects to deepen expertise in secur
 
 ## 🎯 Certifications & Credentials
 
-### ✅ Active Certifications
-- CASP+
-- SSCP (ISC2)
-- CEH
-- PenTest+
-- Linux+
-- CCNP Enterprise
-- CCNP Security Core
-- ITIL Foundation
-- AWS Certified Cloud Practitioner
+## 🎯 Certifications & Credentials  
 
-### 🚧 In Progress
-- CISSP
-- AZ-500: Azure Security Engineer Associate
-- AWS Solutions Architect Associate (SAA-C03)
-  
+### Active Certifications  
+- CASP+  
+- SSCP (ISC2)  
+- CEH  
+- PenTest+  
+- Linux+  
+- CCNP Enterprise  
+- CCNP Security Core  
+- ITIL Foundation  
+- AWS Certified Cloud Practitioner  
+
+### In Progress  
+- CISSP  
+- AZ-500 (Azure Security Engineer Associate)  
+- AWS Solutions Architect Associate (SAA-C03)    
   ---
 ## 🧭 Current Focus
 

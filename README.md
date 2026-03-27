@@ -87,13 +87,16 @@ Key highlights:
 - AWS Solutions Architect Associate (SAA-C03)
 - AZ-500 (Azure Security Engineer Associate)  
  
-## 🧭 Current Focus
+## 🧭 Current Focus  
 
-- Secure multi-cloud architecture (AWS & Azure)
-- Identity-first security and Zero Trust design
-- Governance, risk, and compliance alignment
-- Security monitoring and automation
-
+- Designing and securing multi-cloud architectures across AWS and Azure, emphasizing scalability, resilience, and governance-driven design  
+- Implementing identity-first security models using IAM, RBAC, and least-privilege access controls across hybrid environments  
+- Applying Zero Trust principles through network segmentation, controlled access, and continuous verification  
+- Aligning security practices with governance, risk, and compliance requirements using cloud-native controls and policy frameworks  
+- Building and integrating security monitoring solutions to improve visibility, detection, and response across cloud and hybrid infrastructures  
+- Developing security automation workflows to streamline detection, response, and remediation of cloud security risks  
+- Strengthening enterprise infrastructure security across web, application, database, and storage layers  
+- Expanding hands-on expertise in Infrastructure as Code (Terraform) for secure, consistent, and scalable deployments  
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sharmahari25/

@@ -19,8 +19,6 @@ I actively develop hands-on cloud security projects to deepen expertise in secur
 
 ### 🔐 Cloud Security
 
-🔐 Cloud Security  
-
 - Identity and Access Management (IAM, RBAC, least privilege, role-based access control, policy design, identity lifecycle management)  
 - Zero Trust architecture, network segmentation, and identity-first security design across cloud environments  
 - Cloud logging, monitoring, and threat detection using centralized visibility and detection-driven approaches  
@@ -30,7 +28,6 @@ I actively develop hands-on cloud security projects to deepen expertise in secur
 - Governance, compliance, and policy enforcement using cloud-native security controls and frameworks  
 - Security posture management and continuous assessment of cloud environments   
 ### ☁️ Cloud Architecture
-### ☁️ Cloud Architecture  
 
 - Design of secure AWS and Azure architectures aligned with Well-Architected Framework principles (security, reliability, performance, cost optimization, operational excellence)  
 - High availability and resilient infrastructure design using multi-AZ and multi-region deployment strategies  
@@ -41,8 +38,6 @@ I actively develop hands-on cloud security projects to deepen expertise in secur
 - Cost-aware architecture planning with performance and efficiency considerations  
 - Infrastructure as Code (IaC) concepts for consistent, automated, and scalable deployments (Terraform in progress)  
 ### 🌐 Enterprise Networking & Security
-### 🌐 Enterprise Networking & Security  
-
 - Network security architecture design including segmentation, secure zones, and controlled traffic flow across enterprise environments  
 - Implementation and management of firewalls and network security controls (Cisco ASA, Cisco Firepower/FTD, Palo Alto, Fortinet)  
 - Network access control and authentication using 802.1X and identity-based policies (Cisco ISE)  
@@ -58,9 +53,6 @@ I actively develop hands-on cloud security projects to deepen expertise in secur
 
 ## ☁️ Cloud Experience
 
-### AWS Well-Architected Design
-## ☁️ Cloud Experience  
-
 Designed and implemented multiple cloud security and infrastructure projects across AWS and Azure, focusing on secure architecture, scalability, and governance-driven design.  
 
 - Applied Well-Architected Framework principles across security, reliability, performance efficiency, cost optimization, and operational excellence  
@@ -73,29 +65,13 @@ Designed and implemented multiple cloud security and infrastructure projects acr
 - Built and tested multi-tier environments including web, application, database, and storage layers  
 - Applied governance and policy-driven security controls using cloud-native services  
 - Gained hands-on experience through building end-to-end cloud environments simulating enterprise scenarios  
-### Azure Well-Architected Design
-- Designed secure Azure architectures aligned with:
-  - Security
-  - Reliability
-  - Performance Efficiency
-  - Cost Optimization
-  - Operational Excellence
-- Implemented hub-spoke networking and segmentation
-- Applied RBAC and managed identities for secure access
-- Enabled monitoring and governance using Azure-native tools
-
 ---
 
 ## 📂 Featured Projects
 
 - 🔹 [AWS Highly Available Web Application](https://github.com/hsharma-cloud/aws-ha-webapp)
 
-*(More cloud security and architecture projects coming soon)*
-
 ---
-
-## 🎯 Certifications & Credentials
-
 ## 🎯 Certifications & Credentials  
 
 ### Active Certifications  
@@ -110,10 +86,9 @@ Designed and implemented multiple cloud security and infrastructure projects acr
 - AWS Certified Cloud Practitioner  
 
 ### In Progress  
-- CISSP  
-- AZ-500 (Azure Security Engineer Associate)  
-- AWS Solutions Architect Associate (SAA-C03)    
-  ---
+- CISSP
+- - AWS Solutions Architect Associate (SAA-C03)  - AZ-500 (Azure Security Engineer Associate)  
+   ---
 ## 🧭 Current Focus
 
 - Secure multi-cloud architecture (AWS & Azure)
@@ -129,27 +104,44 @@ Designed and implemented multiple cloud security and infrastructure projects acr
 
 ## 🔐 Featured Cloud Security Projects
 
-### 🛡️ Highly Available Secure Web Application
-📁 aws-ha-webapp  
-Designed a multi-AZ architecture with load balancing, auto scaling, and secure network controls to ensure resilience and business continuity.
-
-### ⚙️ Compute Resilience & Self-Healing Systems
-📁 aws-compute-resilience-labs  
-Implemented auto scaling, performance optimization, and self-healing mechanisms to improve uptime and operational reliability.
-
-### 🌐 Secure VPC Architecture & Network Segmentation
-📁 aws-vpc-secure-networking  
-Designed segmented VPC architecture aligned with Zero Trust principles to enforce least-privilege network access.
-
-### 🔗 Secure Inter-VPC Connectivity
-📁 aws-vpc-peering-secure-connectivity  
-Enabled secure communication between environments while maintaining segmentation and governance controls.
+### 🏗️ AWS Enterprise Infrastructure Platform  
+📁 aws-enterprise-infrastructure-platform  
+Designed a secure, scalable AWS enterprise platform using segmented VPC architecture, centralized controls, and governance-driven design aligned with Zero Trust principles.  
 
 ---
 
-## 🎯 Career Focus
-Actively pursuing Cloud Security Architect roles focused on designing secure, resilient, and scalable cloud infrastructures aligned with Zero Trust and governance best practices.
+### 🌐 Multi-Cloud Security Monitoring Platform  
+📁 terraform-multicloud-security-monitoring  
+Built a multi-cloud monitoring solution using Terraform to enable centralized visibility, logging, and security posture management across AWS and Azure environments.  
 
+---
+
+### ⚙️ AWS Security Automation Platform  
+📁 aws-security-automation-platform  
+Implemented security automation workflows to detect, respond, and remediate cloud risks, improving operational efficiency and reducing response time.  
+
+---
+
+### 🔄 Multi-Cloud Security Automation  
+📁 multicloud-security-automation  
+Developed cross-cloud security automation strategies integrating monitoring, policy enforcement, and automated response across hybrid environments.  
+
+---
+
+### 🔐 AWS Data Security Architecture  
+📁 aws-data-security-architecture  
+Designed a secure data architecture with encryption, access controls, and data protection strategies aligned with governance and compliance requirements.  
+
+---
+
+### 🔷 Azure Cloud Security Architecture  
+📁 azure-cloud-security-architecture  
+Built a secure Azure architecture using hub-spoke networking, RBAC, managed identities, and native monitoring for secure and scalable workload deployment.  
+---
+
+## 🎯 Career Focus
+Focused on Security Engineer roles across hybrid environments, securing both on-premises and cloud infrastructures (AWS and Azure) with an emphasis on Zero Trust, identity-first security, and governance-driven practices. 
+Committed to building secure, resilient systems that improve visibility, reduce risk, and strengthen overall security posture through practical implementation and continuous monitoring.
 ---
 
 ⭐️ Thanks for visiting my profile.

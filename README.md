@@ -51,9 +51,11 @@ I actively develop hands-on cloud security projects to deepen expertise in secur
 - Integration of network and security controls into enterprise and cloud environments for unified security posture  
 ---
 
-## ☁️ Cloud Experience
+## ☁️ Cloud Experience  
 
 Designed and implemented multiple cloud security and infrastructure projects across AWS and Azure, focusing on secure architecture, scalability, and governance-driven design.  
+
+Key highlights:  
 
 - Applied Well-Architected Framework principles across security, reliability, performance efficiency, cost optimization, and operational excellence  
 - Designed highly available and resilient architectures using multi-AZ deployments and scalable infrastructure patterns  
@@ -64,7 +66,7 @@ Designed and implemented multiple cloud security and infrastructure projects acr
 - Integrated security controls into architecture design, reducing attack surface and improving risk posture  
 - Built and tested multi-tier environments including web, application, database, and storage layers  
 - Applied governance and policy-driven security controls using cloud-native services  
-- Gained hands-on experience through building end-to-end cloud environments simulating enterprise scenarios  
+- Gained hands-on experience through building end-to-end cloud environments simulating enterprise scenarios  os  
 ---
 ---
 ## 🎯 Certifications & Credentials  
@@ -82,8 +84,9 @@ Designed and implemented multiple cloud security and infrastructure projects acr
 
 ### In Progress  
 - CISSP
-- - AWS Solutions Architect Associate (SAA-C03)  - AZ-500 (Azure Security Engineer Associate)  
-   ---
+- AWS Solutions Architect Associate (SAA-C03)
+- AZ-500 (Azure Security Engineer Associate)  
+ 
 ## 🧭 Current Focus
 
 - Secure multi-cloud architecture (AWS & Azure)
@@ -132,12 +135,13 @@ Designed a secure data architecture with encryption, access controls, and data p
 ### 🔷 Azure Cloud Security Architecture  
 📁 azure-cloud-security-architecture  
 Built a secure Azure architecture using hub-spoke networking, RBAC, managed identities, and native monitoring for secure and scalable workload deployment.  
----
 
-## 🎯 Career Focus
-Focused on Security Engineer roles across hybrid environments, securing both on-premises and cloud infrastructures (AWS and Azure) with an emphasis on Zero Trust, identity-first security, and governance-driven practices. 
+### 🎯 Career Focus  
+
+Focused on Security Engineer roles across hybrid environments, securing both on-premises and cloud infrastructures (AWS and Azure) with an emphasis on Zero Trust, identity-first security, and governance-driven practices.  
+
 Committed to building secure, resilient systems that improve visibility, reduce risk, and strengthen overall security posture through practical implementation and continuous monitoring.
----
+
 
 ⭐️ Thanks for visiting my profile.
 

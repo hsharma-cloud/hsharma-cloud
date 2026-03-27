@@ -66,11 +66,6 @@ Designed and implemented multiple cloud security and infrastructure projects acr
 - Applied governance and policy-driven security controls using cloud-native services  
 - Gained hands-on experience through building end-to-end cloud environments simulating enterprise scenarios  
 ---
-
-## 📂 Featured Projects
-
-- 🔹 [AWS Highly Available Web Application](https://github.com/hsharma-cloud/aws-ha-webapp)
-
 ---
 ## 🎯 Certifications & Credentials  
 

@@ -66,7 +66,7 @@ Key highlights:
 - Integrated security controls into architecture design, reducing attack surface and improving risk posture  
 - Built and tested multi-tier environments including web, application, database, and storage layers  
 - Applied governance and policy-driven security controls using cloud-native services  
-- Gained hands-on experience through building end-to-end cloud environments simulating enterprise scenarios  os  
+- Gained additional hands-on experience through building end-to-end cloud environments simulating enterprise scenarios 
 ---
 ---
 ## 🎯 Certifications & Credentials  

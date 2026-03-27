@@ -1,7 +1,7 @@
 
 
 
-# Hi, I'm Hari Sharma 👋
+# Hari Sharma 👋
 Security Engineer | Cloud & Network Security | Security Automation & Integration | Zero Trust & Governance
 ---
 ## 👨‍💻 About Me  

@@ -80,13 +80,8 @@ Key highlights:
 - CCNP Enterprise  
 - CCNP Security Core  
 - ITIL Foundation  
-- AWS Certified Cloud Practitioner  
-
-### In Progress  
-- CISSP
+- AWS Certified Cloud Practitioner 
 - AWS Solutions Architect Associate (SAA-C03)
-- AZ-500 (Azure Security Engineer Associate)  
- 
 ## 🧭 Current Focus  
 
 - Designing and securing multi-cloud architectures across AWS and Azure, emphasizing scalability, resilience, and governance-driven design  

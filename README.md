@@ -2,7 +2,7 @@
 
 
 # Hari Sharma 👋
-Security Engineer | Cloud & Network Security | AWS & Azure | IAM | Automation
+Security Engineer | Cloud Security | AWS & Azure | IAM | Network Security
 ---
 ## 👨‍💻 About Me  
 
